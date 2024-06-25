@@ -8,3 +8,6 @@ Full cap : 🟢
 
 
 Need Python
+
+
+join discord for help : https://discord.gg/ZR2dEbkvgZ
